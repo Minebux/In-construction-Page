@@ -7,9 +7,9 @@ particlesJS("particles-js", {
       stroke: { width: 0, color: "#000000" },
       polygon: { nb_sides: 5 },
       image: {
-        src: "https://files.catbox.moe/8xqhnp.png",
-        width: 1496,
-        height: 1653
+        src: "https://cdn.discordapp.com/attachments/883061090970374155/884322463310303253/Logo_Fix_Redux_1.png",
+        width: 4000,
+        height: 4000
       }
     },
     opacity: {
